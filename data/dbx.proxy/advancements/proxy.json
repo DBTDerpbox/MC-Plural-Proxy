@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Plural Proxy",
+        "description": "A simple datapack for proxying messages",
+        "icon": {
+            "item": "armor_stand"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:dbtderpbox",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
