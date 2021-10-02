@@ -1,7 +1,7 @@
 # MC Plural Proxy
 A simple Minecraft datapack for proxying messages
 
-![Minecraft Version](https://img.shields.io/badge/Minecraft-1.16.5-1.17.1-80ba42?style=for-the-badge) ![License](https://img.shields.io/github/license/DBTDerpbox/mc-plural-proxy?style=for-the-badge) ![Last Commit](https://img.shields.io/github/last-commit/dbtderpbox/mc-plural-proxy?style=for-the-badge)
+![Minecraft Version](https://img.shields.io/badge/Minecraft-1.16.5--1.17.1-80ba42?style=for-the-badge) ![License](https://img.shields.io/github/license/DBTDerpbox/mc-plural-proxy?style=for-the-badge) ![Last Commit](https://img.shields.io/github/last-commit/dbtderpbox/mc-plural-proxy?style=for-the-badge)
 
 [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
